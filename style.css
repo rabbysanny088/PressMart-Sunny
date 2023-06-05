@@ -1,0 +1,1628 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header section starts here */
+
+
+header{
+    margin-top: 15px;
+}
+
+.container a{
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+/* ::-webkit-input-placeholder{
+    font-size: 20px;
+} */
+
+.form-control{
+    display: block;
+    width: 100%;
+    padding: 8px 23px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: unset;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+
+.form-select{
+    display: block;
+    width: 100%;
+    padding: 0.375rem 2.25rem 0.375rem 0.75rem;
+    -moz-padding-start: calc(0.75rem - 3px);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 16px 12px;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin-left: -2px;
+    border-radius: inherit;
+}
+
+
+
+
+
+
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #ced4da;
+    outline: none;
+    box-shadow: none;
+}
+
+
+.form-select:focus{
+
+    border-color: #ced4da;
+    outline: 0;
+    box-shadow: none;
+
+}
+
+
+.header-icon{
+
+}
+
+
+.header-icon-one i{
+    font-size: 35px;
+    margin-right: 17px;
+}
+
+.search-icon{
+    margin-top: 1px;
+    margin-left: -13px;
+}
+
+.he-btn i{
+    font-size: 31px;
+    background-color: green;
+    padding: 11px 20px;
+    color: #fff;
+}
+
+
+.btn-check:focus+.btn, .btn:focus {
+    outline: 0;
+    box-shadow: none;
+
+}
+
+
+.new-icons{
+    position: absolute;
+}
+
+
+/* header section ends here */
+
+
+
+/* feshon starts here */
+
+.carousel{
+    background-color: #f8f8f8;
+}
+
+.feshon-section{
+    margin-top: 87px;
+    width: 100%;
+    height: auto;
+}
+
+.feshon-title-main{
+    margin-top: 34px;
+    margin-left: 88px;
+}
+
+.feshon-title-one{
+    font-family: 'Dancing Script', cursive;
+    font-size: 63px;
+    font-weight: bolder;
+
+}
+
+
+.feshon-title-two{
+    font-size: 77px;
+    margin-top: -19px;
+    font-weight: bolder;
+}
+
+.feshon-title-three{
+    font-size: 42px;
+    font-weight: 400;
+    margin-top: -14px;
+}
+
+.feshon-bu{
+
+}
+
+.feshon-bu-one{
+    margin-left: -119px;
+}
+
+.feshon-th{
+    background-color: #048567;
+    color: #fff;
+    padding: 11px 24px;
+    font-size: 20px;
+    border: none;
+    font-weight: 600;
+    margin-right: 25px;
+}
+
+    
+.feshon-tr{
+    background-color: transparent;
+    color: #048567;
+    padding: 9px 24px;
+    font-size: 20px;
+    font-weight: 600;
+    border: 3px solid #048567;
+}
+
+.feshon-img{
+    margin-left: 175px;
+
+}
+
+.feshon-title-new{
+    margin-left: 150px;
+    margin-top: 34px;
+}
+
+.feshon-title-four{
+    font-family: 'Dancing Script', cursive;
+    font-size: 63px;
+    font-weight: bolder;
+}
+
+
+.feshon-title-five{
+    font-size: 77px;
+    margin-top: -19px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+
+.feshon-title-six{
+    font-size: 42px;
+    font-weight: 400;
+    margin-top: -14px;
+    text-transform: uppercase;
+
+}
+
+
+/* feshon ends here */
+
+/* free shipping starts here */
+
+
+.shipping-section{
+    margin-top: 80px;
+}
+
+/*  */
+
+.shipping-main i{
+    font-size: 55px;
+}
+
+.shipping-title-one{
+    font-size: 21px;
+    font-weight: 600;
+    margin-left: -39px;
+}
+
+
+.shipping-title-two{
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: -39px;
+}
+
+
+
+
+/* featurd starts here */
+
+
+
+.featured-section{
+    margin-top: 67px;
+    width: 100%;
+    height: auto;
+}
+
+
+.bar-container {
+    width: 100%;
+    background-color: #f1f1f1;
+    text-align: center;
+    color: white;
+    height: 23%;
+
+}
+
+.bar-5 {
+    width: 22%;
+    height: 2px;
+    background-color: #04AA6D;
+    margin-top: 10px;
+}
+
+
+.featured-title-one{
+    margin-bottom: -29px;
+}
+
+
+
+.featured-title-two{
+    font-size: 21px;
+    font-weight: bolder;
+    color: #048567;
+}
+
+.man-section-main{
+    margin-top: 60px;
+}
+
+
+.man-sec{
+    position: relative;
+}
+
+.man-one{
+
+    background-color: rgba(255,255,255,.95);
+    bottom: 2rem;
+    position: absolute;
+    margin: 0;
+    left: 1.5rem;
+    right: 1.5rem;
+    padding: 30px 14px 10px;
+    cursor: pointer;
+    transition: transform .7s cubic-bezier(0,0,.44,1.18);
+}
+
+.man-title-one{
+    text-align: center;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 4px;
+    font-family: Poppins,Arial, Helvetica, sans-serif;
+}
+
+
+.man-title-two{
+    text-align: center;
+    font-size: 16px;
+    color: #545454;
+    font-weight: 400;
+    font-family: Poppins,Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+.man-one:hover{
+    background-color: #fff;
+}
+
+
+.man-one:hover{
+    color: #048567;
+}
+
+.man-img{
+    backface-visibility: hidden;
+    perspective: 800px;
+    transition: transform .7s cubic-bezier(0,0,.44,1.18);
+    display: initial;
+    cursor: pointer;
+}
+
+
+.beatiful-title-five{
+    cursor: pointer;
+}
+
+.man-img:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0,0,0,.15);
+    z-index: 91;
+}
+
+/* featurd ends here */
+
+
+/* arrivals starts here */
+
+.arrivals-section{
+    margin-top: 70px;
+    width: 100%;
+    height: auto;
+}
+
+.arrivals-main{
+    background-image: url(./img/banner-1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.arrivals-two{
+    padding: 41px;
+}
+
+.arrivals-three{
+    font-size: 21px;
+    font-weight: 600;
+}
+
+
+.arrivals-four{
+
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1.1;
+    margin-top: 15px;
+
+}
+
+.arrivals-five{
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.arrivals-six{
+    border: none;
+    background: transparent;
+    border-bottom: 3px solid #fff;
+    font-size: 21px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.arrivals-new{
+    background-image: url(./img/banner-2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* arrivals ends here */
+
+
+/* Latest news starts here */
+
+
+
+.Latest-section{
+    margin-top: 60px;
+    width: 100%;
+    height: auto;
+}
+
+
+.new-container {
+    width: 100%;
+    background-color: #f1f1f1;
+    text-align: center;
+    color: white;
+    height: 23%;
+
+}
+
+.bar-3 {
+    width: 14%;
+    height: 2px;
+    background-color: #04AA6D;
+    margin-top: 10px;
+}
+
+.beatiful-section-main{
+    margin-top: 50px;
+}
+
+.beatiful-title-one{
+    font-size: 20px;
+    margin-top: 15px;
+    font-weight: bolder;
+    cursor: pointer;
+    line-height: 22px;
+}
+
+
+.beatiful-title-two{
+    font-size: 29px;
+    font-weight: bolder;
+    line-height: 18px;
+    cursor: pointer;
+}
+
+.beatiful-title-three i{
+    font-size: 24px;
+    line-height: 39px;
+    cursor: pointer;
+}
+
+.beatiful-title-four{
+  color:  #545454;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+
+.beatiful-title-one:hover{
+    color: #048567;
+}
+
+
+.beatiful-title-two:hover{
+    color: #048567;
+
+}
+
+
+.beatiful-title-three:hover{
+    color: #048567;
+
+}
+
+.beatiful-title-four:hover{
+    color: #048567;
+
+}
+
+.beatiful-title-five:hover{
+    color: #048567;
+
+}
+
+.beatiful-main img{
+    transition: transform .7s cubic-bezier(0,0,.44,1.18);
+    cursor: pointer;
+}
+
+.img-one{
+    width: 55%;
+    height: auto;
+    display: block;
+
+
+}
+
+.beatiful-section-main{
+    position: relative;
+}
+/* 
+.beatiful-main img{
+    width: 55%;
+    height: auto;
+    display: block;
+    margin-left: 71px;
+} */
+
+.new-efcets{
+    position: absolute;
+    left: -20px;
+    top: -14px;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0,.5);
+    opacity: 0;
+    transition: all 0.4s ease-out 0s;
+    width: calc(100% + 10%);
+    height: 78%;
+    cursor: pointer;
+
+}
+
+
+.beatiful-section-main:hover .new-efcets{
+    opacity: 1;
+}
+
+.beatiful-section-main:hover .beatiful-main img{
+    transform: scale(1.1);
+}
+
+
+/* Latest news ends here */
+
+
+
+/* suscribe starts here */
+
+
+.subcrib-heading{
+    background-color: #059473;
+    width: 100%;
+    height: auto;
+}
+
+form input{
+    width: 100%;
+    height: 57px;
+    padding: 22px;
+    font-size: 19px;
+    border-radius: 50px;
+    border: #fff;
+}
+
+.title-btn{
+    border: red;
+    font-size: 20px;
+    background-color: #d47c7c;
+    border-radius: 50px;
+    left: 492px;
+    top: 4px;
+    /* width: 14%; */
+    color: #fff;
+    font-weight: 600;
+    padding: 10px 23px;
+}
+
+.sub-hed{
+    font-size: 29px;
+    font-weight: 700;
+}
+
+.sub-hed-2{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+
+/* suscribe ends here */
+
+
+
+/* footer starts here */
+
+
+.Eight-section{
+    width: 100%;
+    height: 122vh;
+    background-color: #f8f8f8;
+}
+
+.footer-title-main{
+    margin-top: 50px;
+}
+
+
+.footer-title-one{
+
+    font-size: 48px;
+    font-weight: bolder;
+    margin-top: 58px;
+
+}
+
+.footer-title-two{
+    font-size: 19px;
+    font-weight: 400;
+    width: 281px;
+    color: #545454;
+}
+
+.footer-title-three {
+    font-size: 21px;
+    margin-left: 1px;
+    font-weight: initial;
+}
+
+.footer-new-one{
+
+    font-size: 26px;
+
+}
+
+.footer-title-three i{
+    font-size: 21px;
+    margin-right: 1px;
+
+}
+
+.footer-title-four{
+    font-size: 18px;
+    text-align: justify;
+}
+
+.footer-title-five i{
+    font-size: 21px;
+    margin-right: 1px;
+}
+
+.footer-title-five{
+    
+}
+
+
+.footer-title-six{
+    font-size: 21px;
+    margin-left: 9px;
+    font-weight: initial;
+}
+
+
+.footer-title-seven i{
+    font-size: 21px;
+    margin-right: 1px;
+}
+
+
+.footer-title-seven{
+    font-size: 21px;
+    margin-left: 1px;
+    font-weight: initial;
+}
+
+.footer-title-eight{
+    
+}
+
+
+
+
+
+.footer-title-nine i{
+    font-size: 21px;
+    margin-right: 3px;
+}
+
+.footer-title-nine{
+    font-size: 21px;
+    margin-left: 1px;
+    font-weight: initial;
+}
+
+
+.footer-title-ten{
+    
+}
+
+.footer-title-eleven i{
+    font-size: 24px;
+    margin-right: 8px;
+}
+
+.footer-title-eleven{
+    
+}
+
+.footer-title-twoel{
+    font-size: 20px;
+    margin-left: 1px;
+    font-weight: initial;
+}
+
+.ra-by p{
+    font-size: 16px;
+    font-weight: 300;
+    color: gray;
+}
+
+.ra-go{
+    color: #fff;
+border-color: rgb(5, 148, 115);
+background-color: rgb(5, 148, 115);
+margin-top: 25px;
+padding: 14px;
+font-size: 19px;
+font-weight: 600;
+width: 100%;
+height: auto;
+border: none;
+}
+
+
+.footer-about-title{
+    margin-top: 66px;
+}
+
+.about-title{
+    
+    font-size: 19px;
+    line-height: 57px;
+    font-weight: 500;
+
+
+}
+
+
+.footer-service-title{
+    margin-top: 66px;
+}
+
+
+.service-title{
+    
+    font-size: 22px;
+    line-height: 64px;
+    font-weight: 500;
+
+}
+
+.footer-acount-title{
+    margin-top: 66px;
+
+}
+
+
+.footer-title-sp{
+    font-size: 16px;
+    font-weight: 600;
+    color: #545454;
+}
+
+
+.footer-title-bt{
+    padding: 13px 28px;
+    font-size: 18px;
+    border: none;
+    font-weight: bolder;
+    color: #fff;
+    background-color: #048567;
+    margin-left: 56px;
+}
+
+/* footer section ends here */
+
+
+
+/* risponseive starts here */
+
+
+@media (max-width:992px) {
+    /* feshon  */
+
+
+   .subcribe-title input:not(input[type="checkbox"]), .subcribe-title select {
+
+    padding-left: 2rem;
+    height: 44px;
+    font-size: 17px;
+    }
+
+    .ra-go{
+        font-size: 10px;
+        width: 117%;
+        margin-top: 3px;
+    }
+
+
+.nav-link i{
+    font-size: 31px;
+}
+
+.title-btn{
+    left: 216px;
+    font-size: 15px;
+    padding: 7px 23px;
+}
+
+
+.from input{
+    height: 53px;
+}
+
+
+.sub-hed{
+    font-size: 24px;
+}
+
+.sub-hed-2{
+    font-size: 18px;
+}
+
+
+    .feshon-img{
+        margin-left: 0px;
+
+    }
+
+    .feshon-title-new{
+        margin-left: 0px;
+    }
+
+    .feshon-title-one{
+        font-size: 24px;
+    }
+
+    .feshon-title-two{
+        font-size: 45px;
+    }
+
+    .feshon-title-three{
+        font-size: 26px;
+    }
+
+    .feshon-th{
+        font-size: 12px;
+        padding: 8px 25px;
+    
+    }
+
+    .feshon-tr{
+        font-size: 12px;
+        padding: 6px 22px;
+    
+    }
+
+    .feshon-title-four{
+        font-size: 32px;
+
+    }
+
+    .feshon-title-five{
+        font-size: 45px;
+
+    }
+
+    .feshon-title-six{
+        font-size: 26px;
+
+    }
+
+    /* feshon end */
+
+    /* featurd starts */
+
+
+    .man-emergency{
+        display: none;
+    }
+
+    /* featred ends */
+
+    /* arrivals starts  */
+
+
+    .arrivals-three{
+        font-size: 17px;
+
+    }
+
+    .arrivals-four{
+        font-size: 23px;
+        line-height: 16px;
+    }
+
+    .arrivals-five{
+
+        font-size: 17px;
+
+    }
+
+    .arrivals-six{
+        font-size: 16px;
+    
+    }
+
+    .arrivals-two{
+        padding: 21px;
+    }
+
+    /* .arrivals end */
+
+    /* Latest starts */
+
+
+    .beatiful-emrgency{
+        display: none;
+    }
+
+    .form-control input:not(input[type="checkbox"]), .form-control select {
+
+        padding-left: 2rem;
+        height: 19px;
+        font-size: 5px;
+    
+
+    }
+
+
+    .beatiful-title-one{
+        font-size: 17px;
+    }
+
+    .beatiful-title-two{
+        font-size: 22px;
+        line-height: 0px;    }
+
+    .beatiful-title-three i{
+        font-size: 20px;
+    }
+
+    .beatiful-title-four{
+        font-size: 15px;
+    }
+
+    .beatiful-section-main:hover .beatiful-main img{
+        /* display: none; */
+    }
+
+    .new-efcets{
+        display: none;
+    }
+
+    .featured-title-one{
+        font-size: 22px;
+    }
+
+    .featured-title-two{
+        font-size: 20px;
+    }
+
+    /* Leatest ends */
+
+
+
+    /* subscirbe statrs */
+
+        .subscribe-title-one {
+            padding-top: 19px;
+        }
+
+        .subscribe-title-two{
+            font-size: 22px;
+        }
+
+
+
+        .subscribe-title-three{
+            font-size: 17px;
+        }
+
+        .search-new {
+
+            padding-top: 27px;
+
+        }
+
+        .search-new input{
+            width: 127%;
+            height: 48px;
+        }
+        
+
+        .new-from{
+            height: 60px;
+        }
+
+        .search-bt{
+            left: 292px;
+            height: 39px;
+            top: 32px;
+            font-size: 15px;
+        }
+
+
+ 
+
+
+    /* subscirbe ends */
+
+
+    /* footer starts  */
+
+
+
+
+
+        .footer-title-one{
+            font-size: 29px;
+        }
+
+
+        
+        .footer-title-two{
+            font-size: 14px;
+        }
+
+
+        
+        .footer-title-three{
+            
+        }
+
+        
+        .footer-title-four{
+            font-size: 16px;
+        }
+
+
+        
+        .footer-title-five{
+            
+        }
+
+        
+        .footer-title-six{
+            font-size: 16px;
+
+        }
+
+        
+        .footer-title-one{
+            
+        }
+
+
+        
+        .footer-title-seven{
+            
+        }
+
+        
+        .footer-title-eight{
+            font-size: 16px;
+
+        }
+
+        
+        .footer-title-nine{
+            
+        }
+
+
+        
+        .footer-title-ten{
+            font-size: 16px;
+
+        }
+
+
+
+        
+        .footer-title-eleven{
+            
+        }
+
+        
+        .footer-title-twoel{
+            font-size: 16px;
+
+        }
+
+
+        .footer-about-title{
+            margin-top: 60px;
+        }
+
+        .footer-new-one{
+            font-size: 23px;
+        }
+
+        .about-title{
+            font-size: 15px;
+            line-height: 49px;
+        }
+
+        .footer-about-title{
+            margin-top: 72px;
+        }
+
+        .footer-title-sp{
+            font-size: 14px;
+        }
+
+        .footer-title-bt{
+            font-size: 13px;
+            padding: 12px 21px;
+            width: 30%;
+            margin-top: 14px;
+        }
+
+
+    }
+
+
+
+    /* footer ends  */
+
+
+   @media (max-width:768px) {
+
+     .shipping-one{
+        margin-right: 11px;
+    }
+
+    .shipping-title-one{
+        font-size: 18px;
+    }
+
+    .shipping-title-two{
+        font-size: 14px;
+        line-height: 2px;
+    }
+
+    .beatiful-emrgencs{
+        display: none;
+    }
+
+
+    .title-btn{
+        left: 362px;
+    }
+
+    .ra-by p{
+        font-size: 13px;
+    }
+
+    .ra-go{
+        font-size: 10px;
+        width: 171%;
+        margin-top: 3px;
+    }
+
+    /* sopping ends */
+
+    /* feature statrs */
+
+    .man-one{
+        padding: 24px 9px 0px;
+    }
+
+    .man-title-one{
+        font-size: 19px;
+    }
+
+
+    .man-title-two{
+        font-size: 14px;
+    }
+
+    .new-main-emergency{
+        display: none;
+    }
+
+    .arrivals-new{
+        display: none;
+    }
+
+
+    .arrivals-section{
+        margin-top: -101px;
+    }
+
+
+    .feshon-title-one{
+        font-size: 26px;
+    }
+
+    .feshon-title-two{
+        font-size: 38px;
+    }
+
+    .feshon-title-three{
+        font-size: 20px;
+    }
+
+    .feshon-title-main{
+        margin-left: 24px;
+    }
+
+    .feshon-th{
+        font-size: 10px;
+    }
+
+    .feshon-tr{
+        font-size: 9px;
+        padding: 6px 22px;
+    }
+
+    .feshon-title-four{
+        font-size: 26px;
+
+    }
+
+    .feshon-title-five{
+        font-size: 38px;
+
+    }
+
+    .feshon-title-six{
+        font-size: 20px;
+
+    }
+
+    /* featurd ends */
+
+
+    /* scribe starts */
+
+    .subscribe-title-one{
+        text-align: center;
+    }
+
+    .subscribe-main{
+        margin-top: -106px;
+        height: 29vh;
+    }
+
+    .search-new input{
+        width: 100%;
+        height: 42px;
+    }
+
+
+    .search-bt{
+        left: 384px;
+        height: 34px;
+        top: 31px;
+        padding: 5px 28px;
+    }
+
+
+    /* footer statrs */
+
+    
+
+    .footer-title-one{
+        font-size: 29px;
+    }
+
+
+    
+    .footer-title-two{
+        font-size: 14px;
+    }
+
+
+    
+    .footer-title-three i{
+        font-size: 16px;
+
+    }
+
+    
+    .footer-title-four{
+        font-size: 12px;
+    }
+
+
+    
+    .footer-title-five i{
+        font-size: 16px;
+    }
+
+    
+    .footer-title-six{
+        font-size: 14px;
+
+    }
+
+    
+    .footer-title-one{
+        
+    }
+
+
+    .footer-title-two{
+        font-size: 13px;
+    }
+    
+    .footer-title-seven i{
+        font-size: 14px;
+    }
+
+    
+    .footer-title-eight{
+        font-size: 16px;
+
+    }
+
+    
+    .footer-title-nine i{
+
+        font-size: 16px;
+
+        
+    }
+
+
+    
+    .footer-title-ten{
+        font-size: 16px;
+
+    }
+
+
+
+    
+    .footer-title-eleven i{
+        font-size: 16px;
+
+    }
+
+    
+    .footer-title-twoel{
+        font-size: 16px;
+
+    }
+
+
+    .footer-about-title{
+        margin-top: 60px;
+    }
+
+    .footer-new-one{
+        font-size: 23px;
+    }
+
+    .about-title{
+        font-size: 15px;
+        line-height: 49px;
+    }
+
+    .footer-about-title{
+        margin-top: 72px;
+    }
+
+    .footer-title-sp{
+        font-size: 14px;
+    }
+
+ 
+
+    .footer-about-title{
+        
+    margin-top: 57px;
+
+    }
+
+
+    .about-title{
+        line-height: 43px;
+    }
+
+    .footer-acount-title{
+        margin-top: 70px;
+    }
+
+
+   }
+
+   @media (max-width:600px) {
+
+    /* feshon starts */
+
+    .feshon-title-one{
+        font-size: 18px;
+    }
+
+    .feshon-title-two{
+        font-size: 26px;
+    }
+
+
+    .feshon-title-three{
+        font-size: 16px;
+    }
+
+
+    .feshon-tr{
+        font-size: 9px;
+    
+    }
+
+    .feshon-th{
+        font-size: 9px;
+    
+    }
+
+    .feshon-title-four{
+        font-size: 18px;
+
+    }
+
+    .feshon-title-five{
+        font-size: 26px;
+
+    }
+
+
+    .feshon-title-six{
+        font-size: 16px;
+
+    }
+
+    /* shipping starts  */
+
+
+    .shipping-title-one{
+        font-size: 13px;
+    }
+
+
+    .shipping-title-two{
+        font-size: 12px;
+    }
+
+    .shipping-one{
+        margin-left: 45px;
+
+    }
+
+
+    .featured-title-two{
+        font-size: 16px;
+    }
+
+
+    .arrivals-three{
+        
+    font-size: 17px;
+
+    }
+
+    .arrivals-four{
+        font-size: 31px;
+    }
+
+    .arrivals-five{
+        font-size: 20px;
+        margin-top: 24px;
+    }
+
+    .arrivals-six{
+        font-size: 13px;
+    }
+
+    .arrivals-two{
+        padding: 12px;
+    }
+
+    .subcribe-title input:not(input[type="checkbox"]), .subcribe-title select {
+
+        padding-left: 2rem;
+        height: 50px;
+        font-size: 17px;
+    
+
+    }
+
+    .search-bt{
+        font-size: 14px;
+        height: 41px;
+        top: 31px;
+    }
+
+    .footer-about-title{
+        margin-top: 63px;
+    }
+
+    .ra-by{
+        font-size: 14px;
+
+    }
+
+    .ra-go{
+        padding: 6px;
+        height: 37px;
+        width: 35%;
+        font-size: 18px;
+    
+    }
+
+            
+
+
+    .title-btn{
+        
+    left: 329px;
+    height: 35px;
+    padding: 7px 18px;
+    top: 5px;
+
+
+    }
+
+    .ra-but{
+        text-align: center;
+    }
+
+    .ra-by{
+        
+    text-align: center;
+    }
+
+
+   }
+
+
+
+   @media (max-width:490px) {
+        .sub-hed{
+            font-size: 19px;
+        }
+
+        .sub-hed-2{
+            font-size: 14px;
+        }
+
+
+        
+    .subcribe-title input:not(input[type="checkbox"]), .subcribe-title select {
+
+        padding-left: 2rem;
+        height: 19px;
+        font-size: 14px;
+    
+
+    }
+
+
+    .title-btn{
+        left: 169px;
+    font-size: 13px;
+    padding: 5px 18px;
+    ;
+    }
+
+    .ra-go{
+        font-size: 15px;
+        width: 37%;
+    }
+
+    .footer-title-one{
+        font-size: 22px;
+    }
+
+    .footer-title-two{
+        font-size: 13px;
+        width: 183px;
+    }
+
+    .feshon-th{
+
+        padding: 8px 10px;    }
+
+    .feshon-tr{
+
+ 
+        padding: 5px 7px;
+    }
+
+    }
+    
+
+   
